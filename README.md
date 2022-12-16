@@ -8,3 +8,5 @@ mungkin sebab perceptron dan BPNN adalah perkara berbeza , jadi kenapa bljr bend
 i follow this utube tutorial : https://www.youtube.com/watch?v=-KLnurhX-Pg
 
 is this tutorial hell? i dont know
+
+at least i learn something
